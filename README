@@ -1,0 +1,11 @@
+Este repositório contém um código que integra e sincroniza dispositivos entre o sistema Rainbow e o FreePBX. Ele realiza operações como login, listagem de dispositivos, obtenção de informações detalhadas dos dispositivos e atualização ou criação de extensões no FreePBX. O código utiliza bibliotecas como `axios` para requisições HTTP e `knex` para interações com o banco de dados.
+
+Principais funcionalidades:
+- Login no Rainbow e FreePBX
+- Listagem e obtenção de informações dos dispositivos no Rainbow
+- Atualização e criação de extensões no FreePBX
+- Recarregamento das configurações do FreePBX
+
+Uso principal: Este script foi desenvolvido para capturar informações do Rainbow e inseri-las no FreePBX, garantindo alta disponibilidade caso o Rainbow fique offline.
+
+Sinta-se à vontade para explorar, utilizar e contribuir com melhorias!
