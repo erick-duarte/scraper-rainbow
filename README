@@ -8,4 +8,6 @@ Principais funcionalidades:
 
 Uso principal: Este script foi desenvolvido para capturar informações do Rainbow e inseri-las no FreePBX, garantindo alta disponibilidade caso o Rainbow fique offline.
 
-Sinta-se à vontade para explorar, utilizar e contribuir com melhorias!
+Sinta-se à vontade para explorar, utilizar e contribuir com melhorias.
+
+Link do DockerHub: [hub.docker.com/r/erickduarte/scraper-rainbow-x86](hub.docker.com/r/erickduarte/scraper-rainbow-x86)
